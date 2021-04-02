@@ -1,0 +1,1 @@
+This folder contains STL-files of the six objects described in the paper. Each object consists of two parts: the actual object (e.g. Karussell_12_Objekt_1a.stl) and the counter weight (e.g. Karussell_12_Objekt_1a AusglG.stl). Both parts need to be 3D printed and connected with a thin carbon stick that goes through a hole in the turntable plate.
